@@ -1,0 +1,10 @@
+
+./folderfiles.csv
+./folderfiles2.csv
+./utils.py
+./subfolder/oldfile_insubfolder.csv
+./subfolder/subfolder2/nextoldfile_insubfolder2.csv
+./exercise1.py
+./__pycache__/exercise1.cpython-37.pyc
+./newfile.csv
+./oldfile.csv
