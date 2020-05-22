@@ -1,0 +1,9 @@
+﻿OMRÅDE;KØN;ALDER;CIVILSTAND;TID;INDHOLD
+Hele landet;I alt;I alt;I alt;2008K1;5475791
+Hele landet;I alt;I alt;I alt;2020K1;5822763
+﻿OMRÅDE;KØN;ALDER;CIVILSTAND;TID;INDHOLD
+Hele landet;I alt;I alt;I alt;2008K1;5475791
+Hele landet;I alt;I alt;I alt;2020K1;5822763
+﻿OMRÅDE;KØN;ALDER;CIVILSTAND;TID;INDHOLD
+Hele landet;I alt;I alt;I alt;2008K1;5475791
+Hele landet;I alt;I alt;I alt;2020K1;5822763

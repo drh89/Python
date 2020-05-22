@@ -129,7 +129,7 @@ def read_students_into_list():
             if line_count == 0:
                 line_count += 1
             else:
-                stud_name = row[0]
+                stud_name = row[]
                 course_name = row[1]
                 teacher = row[2]
                 ects = row[3]
